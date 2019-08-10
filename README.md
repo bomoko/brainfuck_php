@@ -11,3 +11,5 @@ Couple things I think would be good TODO:
 Importantly, though, I think this would be a great pair-programming/code-retreat exercise. Will try expand this to be a TDD task/kata.
 
 Fun project though!
+
+Acknowledgement - example program `/example/hw.bf` is taken straight from the Wikipedia page.
